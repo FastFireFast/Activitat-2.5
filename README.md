@@ -4,3 +4,6 @@ Una activitat de clase
 ##### README.md editat #####
 ############################
 README.md editat
+############################
+Segona edició del README.md
+############################
